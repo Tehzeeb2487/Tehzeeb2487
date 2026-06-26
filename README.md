@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Tehzeeb Jahan 👋
 
-<!--
-**Tehzeeb2487/tehzeeb2487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack MERN Developer
 
-Here are some ideas to get you started:
+I build modern, responsive and scalable web applications using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Services
+
+✔ Business Websites
+
+✔ MERN Web Applications
+
+✔ Admin Dashboards
+
+✔ REST API Development
+
+✔ Payment Gateway Integration
+
+## Tech Stack
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- JavaScript
+- Cloudinary
+- Razorpay
+- Git & GitHub
+
+## Featured Projects
+
+⭐ EventGlow
+
+⭐ E-commerce Store
+
+⭐ Portfolio Website
+
+## Open To
+
+- Freelance Projects
+- Internships
+- Full-Time Opportunities
+
+## Connect With Me
+
+📧 Email: tehzeebjahan820@gmail.com
+
+💼 LinkedIn: linkedin.com/in/tehzeeb-jahan-966792342
+
+🌐 Portfolio: https://stj-portfolio.netlify.app
