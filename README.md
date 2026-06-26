@@ -46,6 +46,6 @@ I build modern, responsive and scalable web applications using the MERN stack.
 
 📧 Email: tehzeebjahan820@gmail.com
 
-💼 LinkedIn: linkedin.com/in/tehzeeb-jahan-966792342
+💼 LinkedIn: https://www.linkedin.com/in/tehzeeb-jahan-966792342/
 
 🌐 Portfolio: https://stj-portfolio.netlify.app
