@@ -135,7 +135,11 @@ React • Bootstrap • EmailJS/Resend
 
 ## GitHub Profile Summary
 
+<p align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tehzeeb2487&theme=github_dark)
+
+</p>
 
 ---
 
