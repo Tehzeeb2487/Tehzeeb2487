@@ -1,12 +1,4 @@
-<div align="center" style="background: url(Github-banner.png);width:100%;">
-  
-  # 👋 Hi, I'm Tehzeeb Jahan
 
-  ## 🚀 Full-Stack MERN Developer | Freelance Web Developer
-
-  <p>
-    I help startups, small businesses, and entrepreneurs build fast, modern, responsive, and scalable web applications that solve real business problems.
-</p>
 
 <p>
 <a href="https://stj-portfolio.netlify.app/" target="_blank">
@@ -24,8 +16,6 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Tehzeeb2487&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
 
 ---
 
