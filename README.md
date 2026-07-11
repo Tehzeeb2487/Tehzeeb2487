@@ -1,4 +1,4 @@
-👋 Hi, I'm Tehzeeb Jahan
+<h1>👋 <b>Hi, I'm Tehzeeb Jahan</b></h1>
 <h2><b>Full-Stack MERN Developer | Freelance Web Developer</b></h2>
 
 I help startups, small businesses, and entrepreneurs build fast, modern, and scalable web applications that solve real business problems.
@@ -11,7 +11,9 @@ I help startups, small businesses, and entrepreneurs build fast, modern, and sca
 💳 Razorpay Integration
 
 <h2>🚀 <b>Tech Stack</b></h2>
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode" /> </p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode" />
+</p>
 
 <h2>⭐ <b>Featured Projects</b></h2>
 <h3>🎉<b> EventGlow</b></h3>
@@ -69,6 +71,14 @@ SEO-Friendly Websites
 Performance Optimization
 On-Time Delivery
 Long-Term Support
+
+<h2>📈 <b>GitHub Stats</b></h2> 
+
+![Tehzeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tehezeeb2487&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tehezeeb2487&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tehezeeb2487&theme=tokyonight)
 
 <h2>📫 <b>Connect With Me</b></h2>
 
