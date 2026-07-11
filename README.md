@@ -230,10 +230,6 @@ React • Bootstrap • EmailJS/Resend
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</div>
+<p align="center">
+<img src="Github Banner Footer.png" width="100%">
+</p>
