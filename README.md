@@ -226,9 +226,7 @@ React • Bootstrap • EmailJS/Resend
 
 # 📫 Connect With Me
 
-📧 Email
-
-**tehzeebjahan820@gmail.com**
+📧 Email: **tehzeebjahan820@gmail.com**
 
 💼 LinkedIn: https://www.linkedin.com/in/tehzeeb-jahan-966792342/
 
