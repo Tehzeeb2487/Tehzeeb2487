@@ -15,7 +15,7 @@ I help startups, small businesses, and entrepreneurs build fast, modern, and sca
 
 💳 Razorpay Integration
 
---
+<hr style={padding:1px}>
 
 ## 🚀 Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode" /> </p>
