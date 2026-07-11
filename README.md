@@ -1,5 +1,5 @@
-<h1>👋 <b>Hi, I'm Tehzeeb Jahan</b></h1>
-<h2><b>Full-Stack MERN Developer | Freelance Web Developer</b></h2>
+#👋 Hi, I'm Tehzeeb Jahan
+##Full-Stack MERN Developer | Freelance Web Developer
 
 I help startups, small businesses, and entrepreneurs build fast, modern, and scalable web applications that solve real business problems.
 
@@ -15,17 +15,17 @@ I help startups, small businesses, and entrepreneurs build fast, modern, and sca
 
 💳 Razorpay Integration
 
+</hr>
 
-<h2>🚀 <b>Tech Stack</b></h2>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode" />
-</p>
+##🚀 Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode" /> </p>
 
-<h2>⭐ <b>Featured Projects</b></h2>
-<h3>🎉<b> EventGlow</b></h3>
+**##⭐ Featured Projects**
+**##🎉 EventGlow**
+
 Smart Event Planner & Budget Optimizer
 
-<h4>Tech Stack</h4>
+**###Tech Stack**
 
 React
 
@@ -41,7 +41,8 @@ Razorpay
 
 Cloudinary
 
-<h4>Features</h4>
+
+**###Features**
 
 Authentication
 
@@ -54,27 +55,24 @@ Admin Dashboard
 🔗 Live Demo: https://event-glow.netlify.app/
 
 
-<h3>🎮<b> E-commerce Store</b></h3>
+**## 🎮 Twist Tile Game**
 
-Twist Tile - An Interactive Puzzle Game
+Twist Tile - An Interactive Puzzle Game.
 
-Tech Stack
+**###Tech Stack**
 
 React
 
-Bootstrap
-
 JavaScript
 
-🔗 Live Demo: https://tehzeeb2487.github.io/Twist-Tile-Game/
 
-<h3>🌐 <b>Portfolio Website</b></h3>
+**##🌐 Portfolio Website**
 
 Modern portfolio showcasing services, projects, and contact information.
 
 🔗 https://stj-portfolio.netlify.app/
 
-<h2>💼 <b>Services</b></h2>
+**##💼 Services**
 
 Business Website Development
 
@@ -90,7 +88,7 @@ Website Maintenance
 
 Deployment & Hosting
 
-<h2>💡 <b>Why Work With Me?</b></h2>
+**##💡 Why Work With Me?**
 
 Clean & Maintainable Code
 
@@ -106,18 +104,30 @@ On-Time Delivery
 
 Long-Term Support
 
-<h2>📈 <b>GitHub Stats</b></h2> 
+**##📈 GitHub Stats**
 
-![Tehzeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tehezeeb2487&show_icons=true&theme=tokyonight)
+(Add these cards)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tehezeeb2487&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tehzeeb2487&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tehezeeb2487&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tehzeeb2487&layout=compact)
 
-<h2>📫 <b>Connect With Me</b></h2>
+![GitHub Streak](https://streak-stats.demolab.com?user=Tehzeeb2487)
 
-<b>📧 Email</b>: tehzeebjahan820@gmail.com
+**##📫 Connect With Me**
 
-<b>💼 LinkedIn</b>: https://www.linkedin.com/in/tehzeeb-jahan-966792342/
+**📧 Email:** tehzeebjahan820@gmail.com
 
-<b>🌐 Portfolio</b>: https://stj-portfolio.netlify.app/
+**💼 LinkedIn:** https://www.linkedin.com/in/tehzeeb-jahan-966792342/
+
+**🌐 Portfolio:** https://stj-portfolio.netlify.app/
+
+**##🚀 Currently Looking For**
+
+Freelance Projects
+
+Remote Opportunities
+
+Startup Collaborations
+
+Full-Time MERN Developer Roles
