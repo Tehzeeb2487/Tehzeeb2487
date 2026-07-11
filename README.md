@@ -15,18 +15,19 @@ I help startups, small businesses, and entrepreneurs build fast, modern, and sca
 
 💳 Razorpay Integration
 
-<hr>
+-
 
-##🚀 Tech Stack
+## 🚀 Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode" /> </p>
----
 
-##⭐ Featured Projects
-##🎉 EventGlow
+-
+
+## ⭐ Featured Projects
+## 🎉 EventGlow
 
 Smart Event Planner & Budget Optimizer
 
-###Tech Stack
+### Tech Stack
 
 React
 
@@ -43,7 +44,7 @@ Razorpay
 Cloudinary
 
 
-###Features
+### Features
 
 Authentication
 
@@ -61,7 +62,7 @@ Admin Dashboard
 
 Twist Tile - An Interactive Puzzle Game.
 
-###Tech Stack
+### Tech Stack
 
 React
 
@@ -71,7 +72,7 @@ JavaScript
 
 ---
 
-##🌐 Portfolio Website
+## 🌐 Portfolio Website
 
 Modern portfolio showcasing services, projects, and contact information.
 
@@ -79,7 +80,7 @@ Modern portfolio showcasing services, projects, and contact information.
 
 ---
 
-##💼 Services
+## 💼 Services
 
 Business Website Development
 
@@ -97,7 +98,7 @@ Deployment & Hosting
 
 ---
 
-##💡 Why Work With Me?
+## 💡 Why Work With Me?
 
 Clean & Maintainable Code
 
@@ -115,7 +116,7 @@ Long-Term Support
 
 ---
 
-##📈 GitHub Stats
+## 📈 GitHub Stats
 
 (Add these cards)
 
@@ -127,7 +128,7 @@ Long-Term Support
 
 ---
 
-##📫 Connect With Me
+## 📫 Connect With Me
 
 **📧 Email:** tehzeebjahan820@gmail.com
 
@@ -137,7 +138,7 @@ Long-Term Support
 
 ---
 
-##🚀 Currently Looking For
+## 🚀 Currently Looking For
 
 Freelance Projects
 
