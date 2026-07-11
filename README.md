@@ -15,12 +15,12 @@ I help startups, small businesses, and entrepreneurs build fast, modern, and sca
 
 💳 Razorpay Integration
 
-<hr style={height:1px !important}>
+---
 
 ## 🚀 Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode" /> </p>
 
---
+---
 
 ## ⭐ Featured Projects
 ## 🎉 EventGlow
@@ -120,9 +120,9 @@ Long-Term Support
 
 (Add these cards)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tehzeeb2487&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tehzeeb2487&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tehzeeb2487&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tehzeeb2487&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tehzeeb2487)
 
