@@ -1,12 +1,12 @@
-<p align="center">
+<div align="center">
   <img src="Github-banner.png" alt="Tehzeeb Jahan Banner" width="100%">
-</p>
-# 👋 Hi, I'm Tehzeeb Jahan
+  
+  # 👋 Hi, I'm Tehzeeb Jahan
 
-## 🚀 Full-Stack MERN Developer | Freelance Web Developer
+  ## 🚀 Full-Stack MERN Developer | Freelance Web Developer
 
-<p>
-I help startups, small businesses, and entrepreneurs build fast, modern, responsive, and scalable web applications that solve real business problems.
+  <p>
+    I help startups, small businesses, and entrepreneurs build fast, modern, responsive, and scalable web applications that solve real business problems.
 </p>
 
 <p>
@@ -25,6 +25,8 @@ I help startups, small businesses, and entrepreneurs build fast, modern, respons
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Tehzeeb2487&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
