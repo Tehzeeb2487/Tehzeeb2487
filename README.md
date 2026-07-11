@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Github-banner.png" alt="Tehzeeb Jahan Banner" width="100%">
+</p>
 # 👋 Hi, I'm Tehzeeb Jahan
 
 ## 🚀 Full-Stack MERN Developer | Freelance Web Developer
