@@ -1,51 +1,77 @@
-# Hi, I'm Tehzeeb Jahan 👋
+<h1>👋 <b>Hi, I'm Tehzeeb Jahan</b></h1>
+<h2><b>Full-Stack MERN Developer | Freelance Web Developer</b></h2>
 
-## Full-Stack MERN Developer
+I help startups, small businesses, and entrepreneurs build fast, modern, and scalable web applications that solve real business problems.
 
-I build modern, responsive and scalable web applications using the MERN stack.
+🌐 Business Websites
+⚛️ MERN Stack Applications
+🛒 E-commerce Solutions
+📊 Admin Dashboards
+🔗 REST API Development
+💳 Razorpay Integration
 
-## Services
+<h2>🚀 <b>Tech Stack</b></h2>
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode" /> </p>
 
-✔ Business Websites
+<h2>⭐ <b>Featured Projects</b></h2>
+<h3>🎉<b> EventGlow</b></h3>
+Smart Event Planner & Budget Optimizer
 
-✔ MERN Web Applications
+<h4>Tech Stack</h4>
 
-✔ Admin Dashboards
+React
+Node.js
+Express
+MySQL
+TypeScript
+Razorpay
+Cloudinary
 
-✔ REST API Development
+<h4>Features</h4>
 
-✔ Payment Gateway Integration
+Authentication
+Budget Management
+Payment Integration
+Admin Dashboard
+🔗 Live Demo: https://event-glow.netlify.app/
 
-## Tech Stack
+<h3>🎮<b> E-commerce Store</b></h3>
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- JavaScript
-- Cloudinary
-- Razorpay
-- Git & GitHub
+Twist Tile - An Interactive Puzzle Game
 
-## Featured Projects
+Tech Stack
 
-⭐ EventGlow
+React
+Bootstrap
+JavaScript
+🔗 Live Demo: https://tehzeeb2487.github.io/Twist-Tile-Game/
 
-⭐ E-commerce Store
+<h3>🌐 <b>Portfolio Website</b></h3>
 
-⭐ Portfolio Website
+Modern portfolio showcasing services, projects, and contact information.
 
-## Open To
+🔗 https://stj-portfolio.netlify.app/
 
-- Freelance Projects
-- Internships
-- Full-Time Opportunities
+<h2>💼 <b>Services</b></h2>
+Business Website Development
+MERN Web Application Development
+Admin Dashboard Development
+REST API Development
+E-commerce Development
+Website Maintenance
+Deployment & Hosting
 
-## Connect With Me
+<h2>💡 <b>Why Work With Me?</b></h2>
+Clean & Maintainable Code
+Responsive Design
+Secure Backend Development
+SEO-Friendly Websites
+Performance Optimization
+On-Time Delivery
+Long-Term Support
 
-📧 Email: tehzeebjahan820@gmail.com
+<h2>📫 <b>Connect With Me</b></h2>
 
-💼 LinkedIn: https://www.linkedin.com/in/tehzeeb-jahan-966792342/
-
-🌐 Portfolio: https://stj-portfolio.netlify.app
+<b>📧 Email</b>: tehzeebjahan820@gmail.com
+<b>💼 LinkedIn</b>: https://www.linkedin.com/in/tehzeeb-jahan-966792342/
+<b>🌐 Portfolio</b>: https://stj-portfolio.netlify.app/
