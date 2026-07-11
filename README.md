@@ -1,149 +1,259 @@
+<div align="center">
+
 # 👋 Hi, I'm Tehzeeb Jahan
-## Full-Stack MERN Developer | Freelance Web Developer
 
-I help startups, small businesses, and entrepreneurs build fast, modern, and scalable web applications that solve real business problems.
+### 🚀 Full-Stack MERN Developer | Freelance Web Developer
 
-🌐 Business Websites
+<p>
+I help startups, small businesses, and entrepreneurs build fast, modern, responsive, and scalable web applications that solve real business problems.
+</p>
 
-⚛️ MERN Stack Applications
+<p>
+<a href="https://stj-portfolio.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge"/>
+</a>
 
-🛒 E-commerce Solutions
+<a href="https://www.linkedin.com/in/tehzeeb-jahan-966792342/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-📊 Admin Dashboards
+<a href="mailto:tehzeebjahan820@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-🔗 REST API Development
+</p>
 
-💳 Razorpay Integration
+<img src="https://komarev.com/ghpvc/?username=Tehzeeb2487&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode" /> </p>
+# 💻 About Me
+
+- 🚀 Freelance MERN Stack Developer
+- 🌐 Build Modern Business Websites
+- 📱 Develop Full-Stack MERN Applications
+- 🛒 Build E-commerce Solutions
+- 📊 Admin Dashboards
+- 🔗 REST API Development
+- 🔐 JWT Authentication
+- ☁ Deployment & Hosting
+- 💳 Razorpay Payment Integration
+- ☁ Cloudinary Integration
 
 ---
 
-## ⭐ Featured Projects
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode" />
+
+</p>
+
+---
+
+# 💼 Services
+
+✅ Business Website Development
+
+✅ Full-Stack MERN Web Applications
+
+✅ E-commerce Development
+
+✅ Admin Dashboard Development
+
+✅ REST API Development
+
+✅ Authentication & Authorization
+
+✅ Payment Gateway Integration
+
+✅ Website Optimization
+
+✅ Deployment & Hosting
+
+✅ Website Maintenance
+
+---
+
+# ⭐ Featured Projects
+
 ## 🎉 EventGlow
 
 Smart Event Planner & Budget Optimizer
 
-### Tech Stack
-
-React
-
-Node.js
-
-Express
-
-MySQL
-
-TypeScript
-
-Razorpay
-
-Cloudinary
-
-
 ### Features
 
-Authentication
+- User Authentication
+- Event Budget Management
+- Admin Dashboard
+- Razorpay Integration
+- Cloudinary Image Upload
+- Responsive UI
 
-Budget Management
+### Tech Stack
 
-Payment Integration
+React • TypeScript • Node.js • Express.js • MySQL • Razorpay • Cloudinary
 
-Admin Dashboard
+🔗 Live Demo
 
-🔗 Live Demo: https://event-glow.netlify.app/
+https://event-glow.netlify.app/
 
 ---
 
 ## 🎮 Twist Tile Game
 
-Twist Tile - An Interactive Puzzle Game.
+Interactive Image Puzzle Game
+
+### Features
+
+- Smooth Animations
+- Responsive Design
+- Interactive Gameplay
 
 ### Tech Stack
 
-React
+React • JavaScript • Bootstrap
 
-JavaScript
+🔗 Live Demo
 
-🔗 Live Demo: https://tehzeeb2487.github.io/Twist-Tile-Game/
+https://tehzeeb2487.github.io/Twist-Tile-Game/
 
 ---
 
 ## 🌐 Portfolio Website
 
-Modern portfolio showcasing services, projects, and contact information.
+Modern Portfolio for Freelance Services
 
-🔗 Live Demo: https://stj-portfolio.netlify.app/
+### Features
 
----
+- Modern UI
+- Responsive Design
+- Contact Form
+- Service Showcase
+- Project Showcase
 
-## 💼 Services
+### Tech Stack
 
-Business Website Development
+React • Bootstrap • EmailJS/Resend
 
-MERN Web Application Development
+🔗 Live Demo
 
-Admin Dashboard Development
-
-REST API Development
-
-E-commerce Development
-
-Website Maintenance
-
-Deployment & Hosting
+https://stj-portfolio.netlify.app/
 
 ---
 
-## 💡 Why Work With Me?
+# 📊 GitHub Analytics
 
-Clean & Maintainable Code
+## GitHub Profile Summary
 
-Responsive Design
-
-Secure Backend Development
-
-SEO-Friendly Websites
-
-Performance Optimization
-
-On-Time Delivery
-
-Long-Term Support
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tehzeeb2487&theme=github_dark)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Statistics
 
-(Add these cards)
+<p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tehzeeb2487&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tehzeeb2487&show_icons=true&theme=github_dark&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tehzeeb2487&layout=compact&theme=tokyonight&cache_seconds=1800)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tehzeeb2487&layout=compact&theme=github_dark&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tehzeeb2487)
-
----
-
-## 📫 Connect With Me
-
-**📧 Email:** tehzeebjahan820@gmail.com
-
-**💼 LinkedIn:** https://www.linkedin.com/in/tehzeeb-jahan-966792342/
-
-**🌐 Portfolio:** https://stj-portfolio.netlify.app/
+</p>
 
 ---
 
-## 🚀 Currently Looking For
+## Productive Time
 
-Freelance Projects
+<p align="center">
 
-Remote Opportunities
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tehzeeb2487&theme=github_dark&utcOffset=5.5"/>
 
-Startup Collaborations
+</p>
 
-Full-Time MERN Developer Roles
+---
+
+## Languages by Repository
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tehzeeb2487&theme=github_dark"/>
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tehzeeb2487&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced React Patterns
+- Scalable Backend Architecture
+- Performance Optimization
+- System Design
+- Docker Basics
+
+---
+
+# 🤝 Why Work With Me?
+
+✔ Clean & Maintainable Code
+
+✔ Responsive UI
+
+✔ Secure Backend Development
+
+✔ SEO-Friendly Websites
+
+✔ Fast Performance
+
+✔ On-Time Delivery
+
+✔ Long-Term Support
+
+✔ Professional Communication
+
+---
+
+# 🚀 Open To
+
+- Freelance Projects
+- Startup Collaborations
+- Remote Opportunities
+- Full-Time MERN Developer Roles
+
+---
+
+# 📫 Connect With Me
+
+📧 Email
+
+**tehzeebjahan820@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/tehzeeb-jahan-966792342/
+
+🌐 Portfolio
+
+https://stj-portfolio.netlify.app/
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</div>
