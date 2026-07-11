@@ -1,8 +1,6 @@
-<div align="center">
-
 # 👋 Hi, I'm Tehzeeb Jahan
 
-### 🚀 Full-Stack MERN Developer | Freelance Web Developer
+## 🚀 Full-Stack MERN Developer | Freelance Web Developer
 
 <p>
 I help startups, small businesses, and entrepreneurs build fast, modern, responsive, and scalable web applications that solve real business problems.
@@ -24,8 +22,6 @@ I help startups, small businesses, and entrepreneurs build fast, modern, respons
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Tehzeeb2487&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
 
 ---
 
@@ -97,9 +93,7 @@ Smart Event Planner & Budget Optimizer
 
 React • TypeScript • Node.js • Express.js • MySQL • Razorpay • Cloudinary
 
-🔗 Live Demo
-
-https://event-glow.netlify.app/
+🔗 Live Demo: https://event-glow.netlify.app/
 
 ---
 
@@ -117,9 +111,7 @@ Interactive Image Puzzle Game
 
 React • JavaScript • Bootstrap
 
-🔗 Live Demo
-
-https://tehzeeb2487.github.io/Twist-Tile-Game/
+🔗 Live Demo: https://tehzeeb2487.github.io/Twist-Tile-Game/
 
 ---
 
@@ -139,9 +131,7 @@ Modern Portfolio for Freelance Services
 
 React • Bootstrap • EmailJS/Resend
 
-🔗 Live Demo
-
-https://stj-portfolio.netlify.app/
+🔗 Live Demo: https://stj-portfolio.netlify.app/
 
 ---
 
@@ -240,13 +230,9 @@ https://stj-portfolio.netlify.app/
 
 **tehzeebjahan820@gmail.com**
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/tehzeeb-jahan-966792342/
 
-https://www.linkedin.com/in/tehzeeb-jahan-966792342/
-
-🌐 Portfolio
-
-https://stj-portfolio.netlify.app/
+🌐 Portfolio: https://stj-portfolio.netlify.app/
 
 ---
 
