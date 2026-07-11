@@ -82,6 +82,6 @@ Long-Term Support
 
 <h2>📫 <b>Connect With Me</b></h2>
 
-<b>📧 Email</b>: tehzeebjahan820@gmail.com
+<b>📧 Email</b>: tehzeebjahan820@gmail.com</br>
 <b>💼 LinkedIn</b>: https://www.linkedin.com/in/tehzeeb-jahan-966792342/
 <b>🌐 Portfolio</b>: https://stj-portfolio.netlify.app/
