@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tehzeeb Jahan
-##Full-Stack MERN Developer | Freelance Web Developer
+## Full-Stack MERN Developer | Freelance Web Developer
 
 I help startups, small businesses, and entrepreneurs build fast, modern, and scalable web applications that solve real business problems.
 
