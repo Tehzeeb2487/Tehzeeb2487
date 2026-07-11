@@ -9,6 +9,7 @@ I help startups, small businesses, and entrepreneurs build fast, modern, and sca
 📊 Admin Dashboards
 🔗 REST API Development
 💳 Razorpay Integration
+</hr>
 
 <h2>🚀 <b>Tech Stack</b></h2>
 <p align="left">
