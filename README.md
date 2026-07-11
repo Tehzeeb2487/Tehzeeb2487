@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="Github-banner.png" alt="Tehzeeb Jahan Banner" width="100%">
+<div align="center" style="background: url(Github-banner.png);width:100%;">
   
   # 👋 Hi, I'm Tehzeeb Jahan
 
