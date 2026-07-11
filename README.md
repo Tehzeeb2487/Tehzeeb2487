@@ -1,5 +1,5 @@
-**#👋 Hi, I'm Tehzeeb Jahan**
-**##Full-Stack MERN Developer | Freelance Web Developer**
+#👋 Hi, I'm Tehzeeb Jahan
+##Full-Stack MERN Developer | Freelance Web Developer
 
 I help startups, small businesses, and entrepreneurs build fast, modern, and scalable web applications that solve real business problems.
 
@@ -15,17 +15,18 @@ I help startups, small businesses, and entrepreneurs build fast, modern, and sca
 
 💳 Razorpay Integration
 
-</hr>
+<hr>
 
 ##🚀 Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,javascript,html,css,tailwind,bootstrap,git,github,vscode" /> </p>
+---
 
-**##⭐ Featured Projects**
-**##🎉 EventGlow**
+##⭐ Featured Projects
+##🎉 EventGlow
 
 Smart Event Planner & Budget Optimizer
 
-**###Tech Stack**
+###Tech Stack
 
 React
 
@@ -42,7 +43,7 @@ Razorpay
 Cloudinary
 
 
-**###Features**
+###Features
 
 Authentication
 
@@ -54,25 +55,31 @@ Admin Dashboard
 
 🔗 Live Demo: https://event-glow.netlify.app/
 
+---
 
-**## 🎮 Twist Tile Game**
+## 🎮 Twist Tile Game
 
 Twist Tile - An Interactive Puzzle Game.
 
-**###Tech Stack**
+###Tech Stack
 
 React
 
 JavaScript
 
+🔗 Live Demo: https://tehzeeb2487.github.io/Twist-Tile-Game/
 
-**##🌐 Portfolio Website**
+---
+
+##🌐 Portfolio Website
 
 Modern portfolio showcasing services, projects, and contact information.
 
-🔗 https://stj-portfolio.netlify.app/
+🔗 Live Demo: https://stj-portfolio.netlify.app/
 
-**##💼 Services**
+---
+
+##💼 Services
 
 Business Website Development
 
@@ -88,7 +95,9 @@ Website Maintenance
 
 Deployment & Hosting
 
-**##💡 Why Work With Me?**
+---
+
+##💡 Why Work With Me?
 
 Clean & Maintainable Code
 
@@ -104,7 +113,9 @@ On-Time Delivery
 
 Long-Term Support
 
-**##📈 GitHub Stats**
+---
+
+##📈 GitHub Stats
 
 (Add these cards)
 
@@ -114,7 +125,9 @@ Long-Term Support
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tehzeeb2487)
 
-**##📫 Connect With Me**
+---
+
+##📫 Connect With Me
 
 **📧 Email:** tehzeebjahan820@gmail.com
 
@@ -122,7 +135,9 @@ Long-Term Support
 
 **🌐 Portfolio:** https://stj-portfolio.netlify.app/
 
-**##🚀 Currently Looking For**
+---
+
+##🚀 Currently Looking For
 
 Freelance Projects
 
