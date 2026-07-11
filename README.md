@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="GithubBanner.png" width="100%">
+</p>
 
 <p>
 <a href="https://stj-portfolio.netlify.app/" target="_blank">
