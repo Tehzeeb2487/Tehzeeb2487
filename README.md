@@ -218,6 +218,8 @@ React • Bootstrap • EmailJS/Resend
 
 💼 LinkedIn: https://www.linkedin.com/in/tehzeeb-jahan-966792342/
 
+📷 Instagram: https://www.instagram.com/tehzeeb.dev/
+
 🌐 Portfolio: https://stj-portfolio.netlify.app/
 
 ---
